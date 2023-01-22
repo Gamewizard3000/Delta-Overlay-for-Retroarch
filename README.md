@@ -1,6 +1,10 @@
 # Delta overlay for Retroarch
 # Introduction
-The Goal of this project is to recreated Delta overlays as close as possible, given the Limitations of the Android version of Retroarch.
+The goal of this project is to recreate Delta overlays as closely as possible, given the limitations of the Android version of Retroarch.
+What makes this project different from other Delta Projects? That I am trying to recreate the Delta Skins with Retroarch adjustments. Replacing
+features that are impossible to implement without making a custom version of Retroarch. Another thing that makes this project different
+from other projects is that this one has multiple overlays in one folder, an Input overlay in landscape as well as portrait mode, a blank 
+overlay for playing with a controller, and an overhauled menu to fit with the Delta aesthetic.
 
 **Supported Systems**
 
