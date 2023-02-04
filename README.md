@@ -14,6 +14,8 @@ overlay for playing with a controller, and an overhauled menu to fit with the De
 
 * Auto-Rotate Overlay = On
 * Aspect Ratio = Core provided
-* Confirm Quit = ON
+* Confirm Quit = On
 * Show Inputs on Overlay = Touched
+* Video Shaders = On
+* Rewind Support = On
 * Overlay Opacity = 0.30 ~ 0.70
