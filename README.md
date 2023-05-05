@@ -9,6 +9,7 @@ overlay for playing with a controller, and an overhauled menu to fit with the De
 **Supported Systems**
 
 * Game Boy Advance (GBA)
+* Super Nintendo Entertainment System (SNES)
 
 **Usage**
 
